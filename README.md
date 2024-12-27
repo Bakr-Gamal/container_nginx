@@ -10,4 +10,5 @@ CONTAINER ID   IMAGE              COMMAND                  CREATED         STATU
 95312d3f5ea0   nginx              "/docker-entrypoint.…"   9 seconds ago   Up 7 seconds   0.0.0.0:8888->80/tcp, [::]:8888->80/tcp   priceless_ride
 38e2989e655e   wordpress:latest   "docker-entrypoint.s…"   4 weeks ago     Up 22 hours    0.0.0.0:8000->80/tcp, [::]:8000->80/tcp   wordpress_wordpress_1
 4de7058d9505   mysql              "docker-entrypoint.s…"   4 weeks ago     Up 22 hours    3306/tcp, 33060/tcp                       wordpress_mysql_db_1
-bakr@bakr-virtual-machine:~/myproject$
+bakr@bakr-virtual-machine:~/myproject$ ^C
+
